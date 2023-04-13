@@ -13,3 +13,18 @@ C:\git\Web Projects\Hackaton\Enygma\obj\Debug\net7.0\refint\Enygma.dll
 C:\git\Web Projects\Hackaton\Enygma\obj\Debug\net7.0\Enygma.pdb
 C:\git\Web Projects\Hackaton\Enygma\obj\Debug\net7.0\Enygma.genruntimeconfig.cache
 C:\git\Web Projects\Hackaton\Enygma\obj\Debug\net7.0\ref\Enygma.dll
+C:\git\Maratona-Unasp\Enygma\bin\Debug\net7.0\Enygma.exe
+C:\git\Maratona-Unasp\Enygma\bin\Debug\net7.0\Enygma.deps.json
+C:\git\Maratona-Unasp\Enygma\bin\Debug\net7.0\Enygma.runtimeconfig.json
+C:\git\Maratona-Unasp\Enygma\bin\Debug\net7.0\Enygma.dll
+C:\git\Maratona-Unasp\Enygma\bin\Debug\net7.0\Enygma.pdb
+C:\git\Maratona-Unasp\Enygma\obj\Debug\net7.0\Enygma.csproj.AssemblyReference.cache
+C:\git\Maratona-Unasp\Enygma\obj\Debug\net7.0\Enygma.GeneratedMSBuildEditorConfig.editorconfig
+C:\git\Maratona-Unasp\Enygma\obj\Debug\net7.0\Enygma.AssemblyInfoInputs.cache
+C:\git\Maratona-Unasp\Enygma\obj\Debug\net7.0\Enygma.AssemblyInfo.cs
+C:\git\Maratona-Unasp\Enygma\obj\Debug\net7.0\Enygma.csproj.CoreCompileInputs.cache
+C:\git\Maratona-Unasp\Enygma\obj\Debug\net7.0\Enygma.dll
+C:\git\Maratona-Unasp\Enygma\obj\Debug\net7.0\refint\Enygma.dll
+C:\git\Maratona-Unasp\Enygma\obj\Debug\net7.0\Enygma.pdb
+C:\git\Maratona-Unasp\Enygma\obj\Debug\net7.0\Enygma.genruntimeconfig.cache
+C:\git\Maratona-Unasp\Enygma\obj\Debug\net7.0\ref\Enygma.dll

@@ -132,6 +132,21 @@ string EntradaSenha()
 
     Key = Console.ReadLine();
 
+    return Key;
+}
+
+string EntradaSenhaNumerica()
+{
+    Thread.Sleep(800);
+
+    for (int i = 0; i < 7; i++)
+    {
+        Console.Write($"\n {i} Digite o codigo: ");
+        senha[i] = int.Parse(Console.ReadLine());
+    }
+
+    Key = Console.ReadLine();
+
     return InMessage;
 }
 
@@ -251,9 +266,9 @@ void DecryptVigenere()
 {
     Console.WriteLine("\nDescriptografação via Vinegere\n");
 
-    Key = EntradaSenha();
-
     Thread.Sleep(800);
+
+    Key = EntradaSenha();
 
     SaidaDescriptografada(vigenere.DescriptografarEmVigenere(Acumudador, Key));
 }
@@ -273,6 +288,8 @@ void DecryptCifraTrilho()
 void NewDecryptCifraTrilho()
 {
     Console.WriteLine("\nDescriptografação via Transposição\n");
+
+    EntradaSenhaNumerica();
 
     Thread.Sleep(800);
 

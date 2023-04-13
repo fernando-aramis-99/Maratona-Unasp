@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\git\\Web Projects\\Hackaton\\Enygma\\Enygma.csproj",
+      "projectUniqueName": "C:\\git\\Maratona-Unasp\\Enygma\\Enygma.csproj",
       "projectName": "Enygma",
-      "projectPath": "C:\\git\\Web Projects\\Hackaton\\Enygma\\Enygma.csproj",
+      "projectPath": "C:\\git\\Maratona-Unasp\\Enygma\\Enygma.csproj",
       "packagesPath": "C:\\Users\\ferna\\.nuget\\packages\\",
-      "outputPath": "C:\\git\\Web Projects\\Hackaton\\Enygma\\obj\\",
+      "outputPath": "C:\\git\\Maratona-Unasp\\Enygma\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
