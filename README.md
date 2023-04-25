@@ -8,7 +8,18 @@
 <h3>Técnica de Transposição</h1>
 <p dir="auto">Cerca de Trilho</p>
 
-## Alunos da equipe 25 - CyberForce
+## Descrição do Projeto
+<h3>O sistema foi desenvolvido através da linguagem de programação Csharp, a interface é mediante o terminal do windows</h2>
+
+## Executando o programa
+<h3>Para iniciar o programa, é nescessario ter instalado o Software Development Kit do .NET 6</h2>
+<h3>acesse a pasta do projeto mediante o terminal, e digite o comando:</h2>
+<h3>dotnet run</h2>
+
+## Utilização do sistema
+<h3>Através do terminal e realizada a entrada e saida de dados, a seleção do tipo de criptografia e mediante uma entrada numerica.</h2>
+
+## Equipe 25 - CyberForce
 
 <p dir="auto">Fernando Aramis Colque - 068147</p>
 <p dir="auto">Guilherme Henrique Gomes Collado - 054968</p>
