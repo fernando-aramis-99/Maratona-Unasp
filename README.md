@@ -8,7 +8,7 @@
 <h3>Técnica de Transposição</h1>
 <p dir="auto">Cerca de Trilho</p>
 
-# Alunos da equipe 25 - CyberForce
+## Alunos da equipe 25 - CyberForce
 
 <p dir="auto">Fernando Aramis Colque - 068147</p>
 <p dir="auto">Guilherme Henrique Gomes Collado - 054968</p>
