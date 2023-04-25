@@ -1,9 +1,15 @@
-# Maratona-Unasp
-Maratona de Programação do Centro Universitário Adventista de São Paulo, realizada no mês de Abril de 2023
-
-# Alunos
-
 <div align="center" dir="auto">
+
+# Maratona de Programação 2023
+<h3>Tema: Desenvolver um sistema que realize a encriptação e decriptação de uma mensagem utilizando os seguintes tipos de criptografia simétrica:</h2>
+<h3>Técnicas de Substituição</h1>
+<p dir="auto">Cifra de César</p>
+<p dir="auto">Cifra de Vigenère</p>
+<h3>Técnica de Transposição</h1>
+<p dir="auto">Cerca de Trilho</p>
+
+# Alunos da equipe 25 - CyberForce
+
 <p dir="auto">Fernando Aramis Colque - 068147</p>
 <p dir="auto">Guilherme Henrique Gomes Collado - 054968</p>
 <p dir="auto">Matheus Santos Datovo da Silva - 199246</p>
